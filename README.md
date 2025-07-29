@@ -1,2 +1,2 @@
-# Internship-task-1
+# PRODIGY_WD_02
 Stopwatch web application
